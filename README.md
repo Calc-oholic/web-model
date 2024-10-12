@@ -1,4 +1,4 @@
-# Spelling UIL Study Site
+# Web Facing Model for pattern recognition
 
 AI pattern recognition of % change over time based on additional text input and concurrent randomization using a multi-layer perceptron
 
